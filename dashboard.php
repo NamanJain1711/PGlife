@@ -40,7 +40,7 @@ $interested_properties = mysqli_fetch_all($result_2, MYSQLI_ASSOC);
     <title>Dashboard | PG Life</title>
 
     <?php
-    include "includes/header_links.php";
+    include "includes/head_links.php";
     ?>
     <link href="css/dashboard.css" rel="stylesheet" />
 </head>

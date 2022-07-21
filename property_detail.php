@@ -60,7 +60,7 @@ $interested_users_count = mysqli_num_rows($result_4);
     <title><?= $property['property_name']; ?> | PG Life</title>
 
     <?php
-    include "includes/header_links.php";
+    include "includes/head_links.php";
     ?>
     <link href="css/property_detail.css" rel="stylesheet" />
 </head>

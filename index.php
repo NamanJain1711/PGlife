@@ -10,7 +10,7 @@ session_start();
     <title>Welcome | PG Life</title>
 
     <?php
-    include "includes/header_links.php";
+    include "includes/head_links.php";
     ?>
     <link href="css/home.css" rel="stylesheet" />
 </head>
